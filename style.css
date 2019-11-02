@@ -217,26 +217,32 @@ nav {
         "three   four    two"
         "three   four    five";
 }
+.portfolio > * {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px black solid;
+}
 
 #project1 {
     grid-area: one;
-    background-color: blueviolet;
+    background-image: url("img/projects/1.jpg");
 }
 #project2 {
     grid-area: two;
-    background-color: brown;
+    background-image: url("img/projects/2.jpg");
 }
 #project3 {
     grid-area: three;
-    background-color: darkgoldenrod;
+    background-image: url("img/projects/3.jpg");
 }
 #project4 {
     grid-area: four;
-    background-color: darkgreen;
+    background-image: url("img/projects/4.jpg");
 }
 #project5 {
     grid-area: five;
-    background-color: darksalmon;
+    background-image: url("img/projects/5.jpg");
 }
 
 /* part 3 */
