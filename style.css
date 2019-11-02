@@ -1,6 +1,5 @@
 /*
-dodać portfoliowgrac na Github Pages
-poukładać kod
+dodać portfolio
 dodac wizualny wykres zaawansowania w skills po najechniu
 */
 
@@ -204,7 +203,9 @@ nav {
 
 .portfolio {
     width: 80vw;
+    max-width: 1200px;
     height: 50vw;
+    max-height: 750px;
     margin: 25px auto;
     display: grid;
     gap: 5px;
