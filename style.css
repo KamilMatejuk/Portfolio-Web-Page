@@ -337,6 +337,11 @@ footer p {
         visibility: hidden;
         position: absolute;
     }
+    .skill {
+        width: 140px;
+        height: 140px;
+        margin: 15px;
+    }
     .portfolio {
         width: 80vw;
         height: 110vw;
@@ -367,6 +372,11 @@ footer p {
         --contact-box-radius: 130px;
         --nav-height: 65px;
         --footer-height: 50px;
+    }
+    .skill {
+        width: 130px;
+        height: 130px;
+        margin: 15px;
     }
     .portfolio {
         width: 80vw;
