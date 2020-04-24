@@ -3,7 +3,8 @@ First web page created during CodersCamp course. The goal was to get familiar wi
 Most of the data is false or empty containers, just for the purpose od creating them.
 
 # Used
-* [Bootstrap]
-
+* Bootstrap
+* Flexbox
+* Grid
 
 ![](web-overview.png)
